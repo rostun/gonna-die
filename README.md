@@ -1,4 +1,4 @@
 # gonna-die
 
 yarn install
-npm install
+yarn run build
