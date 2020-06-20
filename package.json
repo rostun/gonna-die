@@ -5,6 +5,9 @@
   "repository": "https://github.com/rostun/gonna-die.git",
   "author": "Rosa <rosa.m.tung@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack-dev-server --mode development"
+  },
   "devDependencies": {
     "@babel/cli": "^7.10.3",
     "@babel/core": "^7.10.3",
