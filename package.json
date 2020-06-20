@@ -1,0 +1,8 @@
+{
+  "name": "rosa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rostun/gonna-die.git",
+  "author": "Rosa <rosa.m.tung@gmail.com>",
+  "license": "MIT"
+}
